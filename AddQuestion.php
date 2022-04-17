@@ -1,3 +1,4 @@
+<!-- this is comment -->
 <?php
 if (isset($_POST['submit'])) {
     $q=$_POST['ques'];
