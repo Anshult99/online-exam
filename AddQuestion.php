@@ -1,5 +1,4 @@
 <?php
-
 if (isset($_POST['submit'])) {
     $q=$_POST['ques'];
     $op1=$_POST['opt1'];
